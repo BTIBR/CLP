@@ -1,4 +1,1 @@
-*.opt
-*.backup
-*.DFR
-*.lock
+~*.*
