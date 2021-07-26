@@ -7,3 +7,6 @@ Projeto de software do CLP que controla a Bancada de Teste de Pré-Carga de Fuso
 
 ### Software
 - HIstudio v1.3.05
+
+### IP
+192.168.0.200
