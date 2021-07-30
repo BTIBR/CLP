@@ -1,0 +1,19 @@
+0° = 5 % de duty em 100 Hz
+
+180° = 21%
+
+resistor na entrada do opto = 1 k
+
+
+
+
+
+
+
+
+
+MOTOR DE PASSO
+ - colocar forma de selecionar tipo de passo na placa (jumper ou switch)
+ 
+- 1/2 passo, 5 e 4 ms
+- 1/4 passo, 3 e 2 ms
